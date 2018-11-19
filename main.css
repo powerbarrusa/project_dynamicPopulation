@@ -1,0 +1,19 @@
+
+.container {
+    background-color: lightgray;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+}
+
+#main {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.card {
+    flex-flow: 1 1 auto;
+}
