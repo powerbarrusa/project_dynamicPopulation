@@ -17,6 +17,8 @@ for (var i = 0; i < familyGuy.length; i++){
     
     var card = document.createElement("div");
     card.classList.add("card");
+    card.classList.add("col-2");
+    card.classList.add("m-3");
     var addName = document.createElement("h5");
     addName.classList.add("card-title");
     var addAge = document.createElement("p");
