@@ -38,4 +38,4 @@ Stretch goals:
 
 - Make your site fully responsive.
 
-surge site: http://clammy-walk.surge.sh
+surge site: http://puzzling-whistle.surge.sh
